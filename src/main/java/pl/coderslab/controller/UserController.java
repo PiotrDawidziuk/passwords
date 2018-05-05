@@ -1,0 +1,44 @@
+package pl.coderslab.controller;
+
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.validation.BindingResult;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import pl.coderslab.model.User;
+import pl.coderslab.repositories.PasswordRepository;
+import pl.coderslab.repositories.UserRepository;
+
+import javax.validation.Valid;
+
+@Controller
+public class UserController {
+
+
+    @Autowired
+    UserRepository userRepository;
+
+    @Autowired
+    PasswordRepository passwordRepository;
+
+    @GetMapping("/reg")
+    String registrationForm(Model model) {
+        model.addAttribute("user", new User());
+
+        return "form/registration";
+    }
+
+    @PostMapping("/reg")
+    String registration(@Valid User user, BindingResult result) {
+
+        if (result.hasErrors()) {
+            return "form/registration";
+        } else {
+            userRepository.save(user);
+
+            return "redirect:/";
+        }
+    }
+}

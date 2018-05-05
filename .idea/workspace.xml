@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="passwords:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac0538fb-b312-4e68-a3fa-1dc4300914b9" name="Default" comment="">
+      <change afterPath="$USER_HOME$/workspace/.metadata/.lock" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.log" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.mylyn/.taskListIndex/segments.gen" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.mylyn/.tasks.xml.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/12/10c2fb01fb2c0018166cbc5f86d3eaf8" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/16/b0816f02db2d00181bd2ae368a36ffc5" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/25/609989e8852e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/37/5003caaa742e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/3d/007ea874792e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/3d/40c855b0fd2c0018166cbc5f86d3eaf8" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/42/b0ee36f1842e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/43/e0ecb3f6d92d00181bd2ae368a36ffc5" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/49/30b23e3c852e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/4b/f0888f0c1e2e001819f3ecb4addf8090" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/4e/108686787a2e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/58/90a951b0fd2c0018166cbc5f86d3eaf8" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/59/e0deafa37a2e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/5a/10cc9df9892c00181e4fed1b696d4a1d" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/63/6078a6bc832e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/69/701fcaff832e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/6b/f066dbe9862c00181e4fed1b696d4a1d" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/6c/a06d6306da2d00181bd2ae368a36ffc5" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/6d/0003e839fb2c0018166cbc5f86d3eaf8" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/6e/20ad8fa9882c00181e4fed1b696d4a1d" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/7/00798a8c1b2e001819f3ecb4addf8090" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/71/80c87966872e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/75/701ed08e772e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/79/10c0805a872e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/86/108aac8fda2d00181bd2ae368a36ffc5" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9/d06c8f47fd2c0018166cbc5f86d3eaf8" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/93/e0509df8da2d00181bd2ae368a36ffc5" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/95/a04f583b1e2e001819f3ecb4addf8090" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/98/c0fb4f33912c00181e4fed1b696d4a1d" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9d/50768752792e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9f/802b9367892c00181e4fed1b696d4a1d" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a3/b03fffa6742e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/ad/f0dbf8d3852e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/ae/60e83b9c852e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/bb/607250fc1d2e001819f3ecb4addf8090" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/bd/a04393f4852e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/be/700281007b2e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/be/a04bf6368a2c00181e4fed1b696d4a1d" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/c0/000cbba3862e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/c0/909360c7932c00181e4fed1b696d4a1d" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/c6/4004e4eafd2c0018166cbc5f86d3eaf8" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/c8/30cbbc328b2c00181e4fed1b696d4a1d" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d0/d01a113f7f2e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d1/a0890402852e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d3/c04434d0832e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d4/70cbe6fa792e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d5/d0e3aef6d92d00181bd2ae368a36ffc5" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/dc/90a0a34d842e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/e/10a37dd2842e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/ee/50db4067822e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/f/e0c8ee8f8a2c00181e4fed1b696d4a1d" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/f0/00a31feb842e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/f2/c05a90c7832e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/f6/503be43b732e00181827eba04b111c36" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/f7/e0fb4fb0fd2c0018166cbc5f86d3eaf8" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.history/fc/d0a013ed812c00181e4fed1b696d4a1d" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_Exam_1/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_Exam_1/.markers" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_Exam_1/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_Exam_1/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_Exam_2/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_Exam_2/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_MySQL/.indexes/5c/cf/56/history.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_MySQL/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_MySQL/.location" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_MySQL/.markers" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_MySQL/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_MySQL/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_OOP/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_OOP/.location" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_OOP/.markers" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_OOP/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_OOP/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_Podstawy/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_Podstawy/.markers" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_Podstawy/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/POZ_JEE_S_03_Podstawy/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Warsztaty_1/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Warsztaty_1/.markers" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Warsztaty_1/org.eclipse.egit.core/GitProjectData.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Warsztaty_1/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.css.swt.theme.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.e4.ui.workbench.renderers.swt.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.epp.logging.aeri.ide.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.pde.api.tools.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.recommenders.completion.rcp.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.core.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.rse.ui.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.team.ui.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.browser.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.ws.service.policy.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main (1).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main (2).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main (3).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main (4).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main.launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (1).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (10).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (11).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (12).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (13).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (14).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (15).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (16).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (17).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (18).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (19).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (2).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (3).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (4).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (5).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (6).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (7).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (8).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1 (9).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main1.launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main10.launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2 (1).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2 (10).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2 (11).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2 (12).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2 (13).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2 (14).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2 (15).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2 (16).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2 (17).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2 (2).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2 (3).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2 (4).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2 (5).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2 (6).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2 (7).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2 (8).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2 (9).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main2.launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3 (1).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3 (10).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3 (11).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3 (12).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3 (13).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3 (14).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3 (15).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3 (16).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3 (2).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3 (3).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3 (4).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3 (5).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3 (6).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3 (7).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3 (8).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3 (9).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main3.launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main4 (1).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main4 (10).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main4 (11).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main4 (12).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main4 (13).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main4 (14).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main4 (15).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main4 (2).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main4 (3).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main4 (4).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main4 (5).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main4 (6).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main4 (7).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main4 (8).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main4 (9).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main4.launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main5 (1).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main5 (10).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main5 (2).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main5 (3).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main5 (4).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main5 (5).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main5 (6).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main5 (7).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main5 (8).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main5 (9).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main5.launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main6 (1).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main6 (2).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main6 (3).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main6 (4).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main6 (5).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main6 (6).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main6.launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main7 (1).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main7 (2).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main7 (3).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main7 (4).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main7.launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main8 (1).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main8 (2).launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main8.launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/Main9.launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.core/.launches/MainNew.launch" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fdt" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fdx" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fnm" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.frq" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.nrm" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.tii" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.tis" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/segments.gen" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/segments_1" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/write.lock" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments.gen" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/1016760078.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/1089239932.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/1357525939.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/1628687906.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/2253745042.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/2359322674.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/2744878784.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/2748817062.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/3066711521.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/3485262699.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/3512161136.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/3530540584.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/3539432263.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/3625682053.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/3844346237.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/3883508318.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/486319260.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/502732891.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/757326805.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/813341167.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/821608291.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/925982370.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/987680540.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/indexNamesMap.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/2.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/3.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/4.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/5.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/6.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/7.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/3/11/refactorings.history" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2018/3/11/refactorings.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/POZ_JEE_S_03_OOP/2018/3/12/refactorings.history" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/POZ_JEE_S_03_OOP/2018/3/12/refactorings.index" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.7.0.20160603-1933.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.rse.core/.log" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.rse.core/initializerMarks/org.eclipse.rse.internal.core.RSELocalConnectionInitializer.mark" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.piotr-latitude-3540_266240/FP.local.files_0/node.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.piotr-latitude-3540_266240/H.local_16/node.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.piotr-latitude-3540_266240/node.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.rse.ui/.log" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.ui.editors/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/baseBrowserLibrary.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/xhr.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.recommenders/caches/identified-project-coordinates.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.recommenders/caches/manual-mappings.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_neon_/segments.gen" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/.recommenders/index/http___download_eclipse_org_recommenders_models_neon_/write.lock" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/EXAM2" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/MySQL commands 2.odt" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/MySQL commands.odt" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/MySQL joiny itd" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/MySQL wiele do wielu" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/POZ_JEE_S_03_Exam_1" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/POZ_JEE_S_03_Exam_2" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/POZ_JEE_S_03_MySQL" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/POZ_JEE_S_03_OOP" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/POZ_JEE_S_03_Podstawy" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/Projekt1/.classpath" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/Projekt1/.project" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/Projekt1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/Projekt1/bin/Main.class" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/Projekt1/src/Main.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/RemoteSystemsTempFiles/.project" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/Warsztaty_1/.classpath" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/Warsztaty_1/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/Warsztaty_1/.project" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/Warsztaty_1/src/Main1.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/commands.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace/mysql commands dodawanie zmiany tabel" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Homework_01/Homework_01.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Homework_01/pom.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Homework_01/src/main/java/Customer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01Java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01Java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01Java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01Java/Spring01Java.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01Java/pom.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01Java/src/main/java/pl/coderslab/AppConfig.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01Java/src/main/java/pl/coderslab/SpringDiApplication.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01Java/src/main/java/pl/coderslab/beans/Component1.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01Java/src/main/java/pl/coderslab/beans/Component2.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01Java/src/main/java/pl/coderslab/beans/HelloWorld.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01Java/src/main/java/pl/coderslab/beans/Scope1.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01Java/src/main/java/pl/coderslab/beans/Scope2.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01JavaAuto/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01JavaAuto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01JavaAuto/Spring01JavaAuto.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01JavaAuto/pom.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01JavaAuto/src/main/java/pl/coderslab/AppConfig.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01JavaAuto/src/main/java/pl/coderslab/SpringDiApplication.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01JavaAuto/src/main/java/pl/coderslab/beans/Auto1.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/workspace5/Spring01JavaAuto/src/main/java/pl/coderslab/beans/Auto2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/app/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/coderslab/app/SpringDiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pass.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/form/pass.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Password.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/model/Password.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/model/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/app/SpringDiApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/model/PasswordTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/repositories/PasswordRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/form/registration.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/converter/UserConverter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/controller/PasswordController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/coderslab/model/Password.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/form/pass.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="54" />
+    <option name="y" value="24" />
+    <option name="width" value="1289" />
+    <option name="height" value="545" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="passwords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passwords" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="passwords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passwords" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="passwords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passwords" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="passwords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passwords" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="passwords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passwords" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="passwords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passwords" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="passwords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passwords" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="passwords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passwords" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="passwords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passwords" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="passwords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passwords" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="coderslab" type="462c0819:PsiDirectoryNode" />
+              <item name="repositories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="passwords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passwords" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="passwords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passwords" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="passwords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passwords" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="passwords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passwords" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="passwords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passwords" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="passwords" type="b2602c69:ProjectViewProjectNode" />
+              <item name="passwords" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="form" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Tomcat 9.0.6" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.6" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="passwords:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_passwords" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="40821" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="passwords:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac0538fb-b312-4e68-a3fa-1dc4300914b9" name="Default" comment="" />
+      <created>1525367619747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525367619747</updated>
+      <workItem from="1525367624892" duration="1253000" />
+      <workItem from="1525368992413" duration="38000" />
+      <workItem from="1525369099314" duration="11782000" />
+      <workItem from="1525420565837" duration="3685000" />
+      <workItem from="1525544804542" duration="947000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="17705000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="46" y="-11" width="1321" height="780" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Key Promoter X" order="10" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32970452" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="9" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32970452" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Persistence" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29536527" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32970452" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970452" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/form/pass.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/model/Password.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/form/registration.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/form/pass.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="58" lean-forward="true" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/converter/UserConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/model/Password.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/PasswordController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="17" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/app/AppInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/app/SpringDiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/model/Password.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="17" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/app/AppInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/app/SpringDiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/model/Password.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="72" column="17" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/form/registration_form.jsp" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/repositories/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="65" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/app/AppInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/repositories/PasswordRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/app/SpringDiApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/form/registration.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/converter/UserConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/controller/PasswordController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/model/Password.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/coderslab/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/form/pass.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>passwords:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>@types/jquery</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>passwords</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
