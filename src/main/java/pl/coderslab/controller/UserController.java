@@ -37,8 +37,8 @@ public class UserController {
             return "form/registration";
         } else {
             userRepository.save(user);
-
-            return "redirect:/";
+            long id = user.getId();
+            return "redirect:/pass/" + id;
         }
     }
 }

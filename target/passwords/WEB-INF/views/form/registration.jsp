@@ -32,7 +32,7 @@
     <p><label for="email">E-Mail</label></p>
     <p><form:input path="email" id="email"/></p>
 
-    <p><button type="submit">Zarejestruj</button></p>
+    <p><button type="submit">Dalej</button></p>
 </form:form>
 
 

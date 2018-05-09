@@ -7,7 +7,7 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="form" uri="http://www.springframework.org/tags/form" %>
-
+<%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
 <html>
 <head>
     <title>Passwords</title>
@@ -23,14 +23,22 @@
     <p><form:input path="password" id="password"/></p>
     <p><form:errors path="password" cssClass="error"/></p>
 
-
-    <p><label for="user">User</label></p>
-    <p><form:select path="user.id" items="${users}" itemValue="id" itemLabel="username"/></p>
-    <p><form:errors path="user.id" cssClass="error"/></p>
-
-    <p><button type="submit">Zarejestruj</button></p>
+    <p><button type="submit">Przestestuj</button></p>
 </form:form>
+<br>
+<table>
+    <tr>
+        <th>Uwagi do hasła:</th>
 
+    </tr>
+    <c:forEach items="${messages}" var="message">
+    <tr>
+        <td>${message}</td>
+    </tr>
+</c:forEach>
+</table>
+
+<p><a href="../fin"><button>Podsumowanie</button></a></p>
 
 </body>
 </html>
