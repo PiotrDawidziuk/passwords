@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import pl.coderslab.converter.UserConverter;
+import pl.coderslab.lib.FileLoader;
 import pl.coderslab.model.Messages;
 import pl.coderslab.model.Password;
 import pl.coderslab.model.User;
@@ -19,6 +20,11 @@ import pl.coderslab.repositories.PasswordRepository;
 import pl.coderslab.repositories.UserRepository;
 
 import javax.validation.Valid;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 
 @Controller
@@ -38,10 +44,46 @@ public class PasswordController {
     }
 
 
+    @Autowired
+    FileLoader fileLoader;
+
+    //  File file =
+
+
+    //   String[] words = readFile().toArray(new String[0]);
+    /// public List<String> readFile() {
+
+    //  List<String> list = new ArrayList<>();
+    //try (BufferedReader br = new BufferedReader(new FileReader(fileLoader.get("english.txt");))) {
+
+    //  String sCurrentLine;
+
+    //while ((sCurrentLine = br.readLine()) != null) {
+    //  list.add(sCurrentLine);
+    //}
+
+//        } catch (IOException e, ) {
+//            e.printStackTrace();
+//        }
+//
+//        return list;
+//    }
 
 
     @PostMapping("/pass/{id}")
-    String pass(@PathVariable long id, Model model, @Valid Password password, BindingResult result) {
+    String pass(@PathVariable long id, Model model, @Valid Password password, BindingResult result) throws IOException {
+
+        File file = fileLoader.get("english.txt");
+        String sCurrentLine;
+        List<String> lista = new ArrayList<>();
+        BufferedReader br = new BufferedReader(new FileReader(file));
+        while ((sCurrentLine = br.readLine()) != null) {
+            lista.add(sCurrentLine);
+        }
+
+
+        String[] words = lista.toArray(new String[0]);
+
 
         if (result.hasErrors()) {
             return "form/pass";
@@ -53,13 +95,12 @@ public class PasswordController {
 
             Messages messages = new Messages(password);
 
-            List<String> list = messages.createList();
+
+            List<String> list = messages.createList(words);
             List<String> list2 = messages.createListPositive();
             model.addAttribute("messages", list);
-            model.addAttribute("messages2",list2);
+            model.addAttribute("messages2", list2);
             model.addAttribute("user_id", id);
-
-
 
 
             return "form/pass";
@@ -84,7 +125,6 @@ public class PasswordController {
 //    }
 
 
-
     String deleteLink = "fin";
 
     @GetMapping("/fin/{id}")
@@ -95,6 +135,7 @@ public class PasswordController {
 
         return deleteLink;
     }
+
     @GetMapping("/delete/{id}")
     public String deleteUser(@PathVariable long id, Model model) {
 
@@ -102,8 +143,7 @@ public class PasswordController {
 
         try {
             userRepository.delete(id);
-        }
-        catch (EmptyResultDataAccessException e){
+        } catch (EmptyResultDataAccessException e) {
             deleteLink = "/";
         }
         return link;

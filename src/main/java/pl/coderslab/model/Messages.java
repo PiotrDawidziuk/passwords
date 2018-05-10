@@ -17,7 +17,7 @@ public class Messages {
     List<String> list = new ArrayList<>();
     Password password;
 
-    public List<String> createList(){
+    public List<String> createList(String [] words){
 
         String s = password.getPassword();
         User user = password.getUser();
@@ -34,7 +34,7 @@ public class Messages {
         list.add(containsNumbersNOT(s));
         list.add(isEmail(s,email));
         list.add(containsRepeatedChars(s));
-        list.add(containsWordInEnglish(s));
+        list.add(containsWordInEnglish(s, words));
         return list;
     }
 
@@ -177,11 +177,11 @@ public class Messages {
         return null;
     }
 
-    public String containsWordInEnglish (String password) {
+    public String containsWordInEnglish (String password, String[] words) {
 
-        EnglishWords englishWords = new EnglishWords();
+        //EnglishWords englishWords = new EnglishWords();
 
-        String[] words = englishWords.getWords();
+        //String[] words = englishWords.getWords();
 
         boolean word = stringContainsItemFromList(password.toLowerCase(), words);
 
