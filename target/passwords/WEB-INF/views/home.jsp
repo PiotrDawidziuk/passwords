@@ -8,13 +8,15 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Home</title>
+    <title>Security Check</title>
+    <link href="/static/stylesheet.css" rel="stylesheet" media="screen">
+
 </head>
 <body>
 
-    <h1>Strona Główna </h1>
+    <h1 class="center">Security Check</h1>
+    <p class="center">Na tej stronie możesz sprawdzić czy twoje hasła są bezpiecznie!</p>
 
-    <p><a href="/reg"><button>Dodaj Usera</button></a>
-        <a href="/pass"><button>Dodaj hasło</button></a></p>
+    <p><a href="/reg" class="button">Wypróbuj!</a></p>
 </body>
 </html>

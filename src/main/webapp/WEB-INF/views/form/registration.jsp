@@ -1,4 +1,4 @@
-<%--
+                                                                                                                                                        <%--
   Created by IntelliJ IDEA.
   User: piotrdawidziuk
   Date: 03.05.18
@@ -14,28 +14,26 @@
     <style>
         .error{color:red; background-color: yellow;}
     </style>
+    <link href="/static/stylesheet.css" rel="stylesheet" media="screen">
+
 </head>
 <body>
+<p class="center">Podaj e-mail i nazwę uzytkownika, której zwykle używasz na forach lub innych stronach internetowych.</p>
 
-
-<form:form modelAttribute="user">
+<form:form modelAttribute="user" class="center">
     <%--<form:errors path="*"/>--%>
     <p><label for="username">Nazwa użytkownika</label></p>
     <p><form:input path="username" id="username"/></p>
     <p><form:errors path="username" cssClass="error"/></p>
 
 
-    <%--<p><label for="passwords">Password</label></p>--%>
-    <%--<p><form:password path="passwords" id="passwords"/></p>--%>
-    <%--<p><form:errors path="passwords" cssClass="error"/></p>--%>
-
     <p><label for="email">E-Mail</label></p>
     <p><form:input path="email" id="email"/></p>
 
-    <p><button type="submit">Dalej</button></p>
+    <p><button class="button" type="submit">Dalej</button></p>
+
+
 </form:form>
-
-
 
 </body>
 </html>

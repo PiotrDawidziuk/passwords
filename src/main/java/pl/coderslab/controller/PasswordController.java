@@ -18,7 +18,6 @@ import pl.coderslab.repositories.PasswordRepository;
 import pl.coderslab.repositories.UserRepository;
 
 import javax.validation.Valid;
-import java.util.ArrayList;
 import java.util.List;
 
 @Controller
@@ -47,12 +46,20 @@ public class PasswordController {
             return "form/pass";
         } else {
 
-            Messages messages = new Messages();
-            List<String> list = messages.createList(password);
-            model.addAttribute("messages", list);
             password.setId(0);
             password.setUser(userRepository.findOne(id));
             passwordRepository.save(password);
+
+            Messages messages = new Messages(password);
+
+            List<String> list = messages.createList();
+            List<String> list2 = messages.createListPositive();
+            model.addAttribute("messages", list);
+            model.addAttribute("messages2",list2);
+            model.addAttribute("user_id", id);
+
+
+
 
             return "form/pass";
         }
@@ -62,7 +69,8 @@ public class PasswordController {
     public List<User> getUsers() {
         return userRepository.findAll();
     }
-//
+
+    //
 //    @ModelAttribute("messages")
 //    public List<String> messages() {
 //
@@ -74,6 +82,12 @@ public class PasswordController {
 //        return list;
 //    }
 
+    @GetMapping("/fin/{id}")
+    public String allAuthors(@PathVariable long id, Model model) {
+        List<Password> passwords = passwordRepository.findAllByUser(userRepository.getOne(id));
+        model.addAttribute("passwords", passwords);
+        return "fin";
+    }
 
     @Autowired
     UserConverter userConverter;

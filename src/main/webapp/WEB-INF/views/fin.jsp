@@ -6,11 +6,31 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
 <head>
     <title>Podsumowanie</title>
+    <link href="/static/stylesheet.css" rel="stylesheet" media="screen">
+
 </head>
 <body>
-Tu ci powiemy dlaczego twoje hasła są słabe
+<table class="list">
+    <tr>
+        <th>Lista haseł</th>
+
+    </tr>
+    <c:forEach items="${passwords}" var="password">
+        <tr>
+            <td>${password.password}</td>
+        </tr>
+    </c:forEach>
+</table>
+
+<p>Wszystkie twoje hasła zostały zapisane do bazy danych!</p>
+<p>Ktoś mógłby ich użyć, żeby włamać sie na twoją pocztę lub Facebooka!</p>
+<p class="messages">Pamiętaj: nigdy nie podawaj swoich haseł osobom trzecim!</p>
+
+<p><a href="/" class="button">Jeszcze raz!</a></p>
+
 </body>
 </html>
