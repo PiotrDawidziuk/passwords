@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Play');
 
 body {
     /*background: radial-gradient(at 50% 60%, rgba(123, 22, 255, 0.75), #0f015e) no-repeat center center fixed;*/
@@ -62,8 +63,8 @@ p {
 }
 
 h1 {
-    /*font-family: "Impact", sans-serif;*/
+    font-family: 'Play', sans-serif;
     font-weight: bolder;
     text-shadow: 2px 2px darkgray;
-    font-size: 500%;
+    font-size: 600%;
 }

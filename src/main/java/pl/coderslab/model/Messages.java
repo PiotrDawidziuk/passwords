@@ -167,7 +167,7 @@ public class Messages {
 
         String[] DIRTY_WORDS = wulgaryzmy.getDirtyWordsArray();
 
-        boolean vulg = stringContainsItemFromList(password, DIRTY_WORDS);
+        boolean vulg = stringContainsItemFromList(password.toLowerCase(), DIRTY_WORDS);
 
         if (vulg== true) {
 
@@ -183,7 +183,7 @@ public class Messages {
 
         String[] words = englishWords.getWords();
 
-        boolean word = stringContainsItemFromList(password, words);
+        boolean word = stringContainsItemFromList(password.toLowerCase(), words);
 
         if (word == true) {
 
