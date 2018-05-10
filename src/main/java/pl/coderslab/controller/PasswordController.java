@@ -2,6 +2,7 @@ package pl.coderslab.controller;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.dao.EmptyResultDataAccessException;
 import org.springframework.format.FormatterRegistry;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -82,12 +83,32 @@ public class PasswordController {
 //        return list;
 //    }
 
+
+
+    String deleteLink = "fin";
+
     @GetMapping("/fin/{id}")
-    public String allAuthors(@PathVariable long id, Model model) {
+    public String allPasswords(@PathVariable long id, Model model) {
         List<Password> passwords = passwordRepository.findAllByUser(userRepository.getOne(id));
         model.addAttribute("passwords", passwords);
-        return "fin";
+        model.addAttribute("user_id", id);
+
+        return deleteLink;
     }
+    @GetMapping("/delete/{id}")
+    public String deleteUser(@PathVariable long id, Model model) {
+
+        String link = "deleted";
+
+        try {
+            userRepository.delete(id);
+        }
+        catch (EmptyResultDataAccessException e){
+            deleteLink = "/";
+        }
+        return link;
+    }
+
 
     @Autowired
     UserConverter userConverter;

@@ -18,5 +18,12 @@
     <p class="center">Na tej stronie możesz sprawdzić czy twoje hasła są bezpiecznie!</p>
 
     <p><a href="/reg" class="button">Wypróbuj!</a></p>
+
+    <div class="footer">
+        <p>Projekt na zakończenie kursu Java Coders Lab 2018 </p>
+        <p>Wykonanie: Piotr Dawidziuk <a href="https://github.com/PiotrDawidziuk">Github</a></p>
+    </div>
+
 </body>
+
 </html>

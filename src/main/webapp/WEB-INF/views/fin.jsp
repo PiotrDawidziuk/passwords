@@ -16,7 +16,7 @@
 <body>
 <table class="list">
     <tr>
-        <th>Lista haseł</th>
+        <th>Lista Twoich haseł:</th>
 
     </tr>
     <c:forEach items="${passwords}" var="password">
@@ -26,11 +26,16 @@
     </c:forEach>
 </table>
 
-<p>Wszystkie twoje hasła zostały zapisane do bazy danych!</p>
-<p>Ktoś mógłby ich użyć, żeby włamać sie na twoją pocztę lub Facebooka!</p>
-<p class="messages">Pamiętaj: nigdy nie podawaj swoich haseł osobom trzecim!</p>
+<p>Twój e-mail, login i wszystkie twoje hasła zostały zapisane do bazy danych.</p>
+<p>Gdybyś zrobił takie coś na innej stronie, to ktoś
+    mógłby ich użyć, żeby włamać sie na twoją pocztę lub Facebooka!</p>
 
-<p><a href="/" class="button">Jeszcze raz!</a></p>
+<p class="messages">Pamiętaj: nigdy nie podawaj swoich loginów i haseł osobom trzecim!</p>
+
+<p><a href="/" class="button">Jeszcze raz!</a>
+<a href="../delete/${user_id}" class="button">Usuń moje dane</a>
+</p>
+
 
 </body>
 </html>

@@ -8,6 +8,7 @@ body {
     background: -webkit-linear-gradient(to right, #fff, #076585);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #fff, #076585); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     font-family: 'Nunito', sans-serif;
+
 }
 
 .messages {
@@ -59,6 +60,7 @@ p {
     font-size: 16px;
     margin: auto;
     text-decoration: none;
+    display: inline-block;
 
 }
 
@@ -67,4 +69,16 @@ h1 {
     font-weight: bolder;
     text-shadow: 2px 2px darkgray;
     font-size: 600%;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    font-size: 50%;
+    display: inline-block;
+
 }
