@@ -12,8 +12,10 @@
 <head>
     <title>Registration</title>
     <style>
-        .error{color:red; background-color: yellow;}
-    </style>
+        .error {
+            color:#990000;
+            /*background-color: lightgray;*/
+        }    </style>
     <link href="/static/stylesheet.css" rel="stylesheet" media="screen">
 
 </head>
@@ -29,6 +31,8 @@
 
     <p><label for="email">E-Mail</label></p>
     <p><form:input path="email" id="email"/></p>
+    <p><form:errors path="email" cssClass="error"/></p>
+
 
     <p><button class="button" type="submit">Dalej</button></p>
 

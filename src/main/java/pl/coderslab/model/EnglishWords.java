@@ -1,15 +1,5 @@
 package pl.coderslab.model;
 
-import org.springframework.beans.factory.annotation.Autowired;
-import pl.coderslab.lib.FileLoader;
-
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
-
 public class EnglishWords {
 
 //

@@ -2,7 +2,7 @@ package pl.coderslab.model;
 
 import java.util.*;
 
-public class Wulgaryzmy {
+public class WordLists {
 
     public static final String[] DIRTY_WORDS_ARRAY = {"chuj", "chuja", "chujek", "chuju", "chujem", "chujnia",
 
@@ -257,4 +257,12 @@ public class Wulgaryzmy {
     public static Set<String> getDirtyWords() {
         return DIRTY_WORDS;
     }
+
+    public static String[] getPopularPasswordsArray() {
+        return POPULAR_PASSWORDS_ARRAY;
+    }
+
+    public static final String[] POPULAR_PASSWORDS_ARRAY = {"123456", "Password", "12345678", "qwerty", "12345", "123456789", "letmein", "1234567", "football", "iloveyou", "admin", "welcome", "monkey", "login", "abc123", "starwars", "123123", "dragon", "passw0rd", "master", "hello", "freedom", "whatever", "qazwsx", "trustno1"};
+
+
 }
