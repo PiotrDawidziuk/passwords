@@ -220,14 +220,21 @@ public class Messages {
         //String[] words = englishWords.getWords();
 
         boolean word = stringContainsItemFromList(password.toLowerCase(), words);
+        boolean wordIs = stringEqualsItemFromList(password.toLowerCase(), words);
 
-        if (word == true) {
+
+        if (word == true && wordIs == false) {
 
             return "Twoje hasło zawiera instniejące słowo w języku angielskim";
         }
 
+        else if (wordIs== true) {
+            return "Twoje hasło jest istniejącym słowem w języku angielskim!";
+        }
+
         return null;
     }
+
 
     public static boolean stringContainsItemFromList(String inputStr, String[] items) {
         return Arrays.stream(items).parallel().anyMatch(inputStr::contains);
