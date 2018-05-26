@@ -261,7 +261,7 @@ public class Messages {
         boolean b = m.find();
         if (b) {
             return null;}
-        return "Your password doesn't contain any numbers";
+        return "Your password doesn't contain any numbers.";
     }
 
     public String containsRepeatedChars (String password) {
