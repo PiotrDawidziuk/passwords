@@ -8,13 +8,13 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Usunięto dane</title>
+    <title>Data deleted</title>
     <link href="/static/stylesheet.css" rel="stylesheet" media="screen">
 
 </head>
 <body>
-<p>Twoje dane zostały poprawnie usunięte.</p>
-<p><a href="/" class="button">Dalej</a>
+<p>Your data was successfully deleted.</p>
+<p><a href="/" class="button">Continue</a>
 
 
 </body>

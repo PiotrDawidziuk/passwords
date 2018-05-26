@@ -20,11 +20,12 @@
 
 </head>
 <body>
-<p class="center">Podaj e-mail i nazwę uzytkownika, której zwykle używasz na forach lub innych stronach internetowych.</p>
+<p class="center">
+    Enter e-mail and user name, that you usually use on message boards or other web pages.</p>
 
 <form:form modelAttribute="user" class="center">
     <%--<form:errors path="*"/>--%>
-    <p><label for="username">Nazwa użytkownika</label></p>
+    <p><label for="username">User name</label></p>
     <p><form:input path="username" id="username"/></p>
     <p><form:errors path="username" cssClass="error"/></p>
 
@@ -34,7 +35,7 @@
     <p><form:errors path="email" cssClass="error"/></p>
 
 
-    <p><button class="button" type="submit">Dalej</button></p>
+    <p><button class="button" type="submit">Continue</button></p>
 
 
 </form:form>

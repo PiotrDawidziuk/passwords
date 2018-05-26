@@ -28,7 +28,7 @@ public class Messages {
         list.add(is321(s));
         list.add(isShort(s));
         list.add(isUser(s,username));
-        list.add(containsDupa(s));
+        //list.add(containsDupa(s));
         list.add(containsProfanity(s));
         list.add(containsUpperAndLowerCaseNOT(s));
         list.add(containsNumbersNOT(s));
@@ -98,8 +98,8 @@ public class Messages {
         if (password.length()<=5) {
             return "Twoje hasło ma 5 znaków lub mniej!!!";
         }
-        else if (password.length()<= 9 && password.length()>3){
-            return "Twoje haslo ma 9 znaków lub mniej.";
+        else if (password.length()<= 10 && password.length()>3){
+            return "Twoje haslo ma 10 znaków lub mniej.";
         }
 
         else {

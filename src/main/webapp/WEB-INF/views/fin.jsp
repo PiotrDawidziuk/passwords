@@ -9,14 +9,14 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <html>
 <head>
-    <title>Podsumowanie</title>
+    <title>Result</title>
     <link href="/static/stylesheet.css" rel="stylesheet" media="screen">
 
 </head>
 <body>
 <table class="list">
     <tr>
-        <th>Lista Twoich haseł:</th>
+        <th>Your passwords:</th>
 
     </tr>
     <c:forEach items="${passwords}" var="password">
@@ -26,14 +26,13 @@
     </c:forEach>
 </table>
 
-<p>Twój e-mail, login i wszystkie twoje hasła zostały zapisane do bazy danych.</p>
-<p>Gdybyś zrobił takie coś na innej stronie, to ktoś
-    mógłby ich użyć, żeby włamać sie na twoją pocztę lub Facebooka!</p>
+<p>Your e-mail, login and all your passwords were saved to the database.</p>
+<p>If you did that on another website, someone could use them to break into your e-mail or Facebook!</p>
 
-<p class="messages">Pamiętaj: nigdy nie podawaj swoich loginów i haseł osobom trzecim!</p>
+<p class="messages">Remember: Never show your passwords to anyone!</p>
 
-<p><a href="/" class="button">Jeszcze raz!</a>
-<a href="../delete/${user_id}" class="button">Usuń moje dane</a>
+<p><a href="/" class="button">Try again!</a>
+<a href="../delete/${user_id}" class="button">Delete my data</a>
 </p>
 
 

@@ -21,17 +21,17 @@
 </head>
 <body>
 <p class="center">
-    Podaj przykładowe hasło, którego siłę chcesz sprawdzić!
+    Enter a sample password you want to test!
 </p>
 
 <form:form modelAttribute="password" class="center">
     <%--<form:errors path="*"/>--%>
-    <p><label for="password">Podaj hasło</label></p>
+    <p><label for="password">Enter password</label></p>
     <p><form:input path="password" id="password" type="password"/></p>
     <p><form:errors path="password" cssClass="error"/></p>
 
     <p>
-        <button type="submit" class="button">Testuj siłę hasła</button>
+        <button type="submit" class="button">Test password security!</button>
     </p>
 </form:form>
 
@@ -39,7 +39,7 @@
 
 <table class="messages">
     <tr>
-        <th>Problemy z hasłem:</th>
+        <th>Problems:</th>
     </tr>
     <c:forEach items="${messages}" var="message">
         <tr>
@@ -51,7 +51,7 @@
 
 <table class="messages2">
     <tr>
-        <th>Zalety hasła:</th>
+        <th>Advantages:</th>
     </tr>
     <c:forEach items="${messages2}" var="message2">
         <tr>
@@ -60,7 +60,7 @@
     </c:forEach>
 </table>
 <p class="center"><a href="../fin/${user_id}">
-    <button class="button">Dalej</button>
+    <button class="button">Continue</button>
 </a></p>
 
 </body>
