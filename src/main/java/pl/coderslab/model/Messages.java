@@ -62,44 +62,44 @@ public class Messages {
 
     public String is123(String password){
         if (password.equals("123")){
-            return "Twoje hasło to 123!";
+            return "Your password is 123!";
         }
         else if (password.equals("1234")){
-            return "Twoje hasło to 1234!";
+            return "Your password to 1234!";
         }
         else if (password.equals("12345")){
-            return "Twoje hasło to 12345!";
+            return "Your password is 12345!";
         }
         else if (password.equals("123456")){
-            return "Twoje hasło to 123456!";
+            return "Your password is 123456!";
         }
         else if (password.equals("1234567")){
-            return "Twoje hasło to 1234567!";
+            return "Your password is 1234567!";
         }
         else if (password.equals("12345678")){
-            return "Twoje hasło to 12345678!";
+            return "Your password is 12345678!";
         }
         else if (password.equals("123456789")){
-            return "Twoje hasło to 123456789!";
+            return "Your password is 123456789!";
         }
         else if (password.equals("qwerty")){
-            return "Twoje hasło to qwerty!";
+            return "Your password is qwerty!";
         }
         else {return null;}
     }
 
     public String is321(String password){
         if (password.equals("321")){
-            return "Twoje hasło to 321!";
+            return "Your password is 321!";
         }
         else {return null;}
     }
     public String isShort(String password){
         if (password.length()<=5) {
-            return "Twoje hasło ma 5 znaków lub mniej!!!";
+            return "Your password has 5 characters or less!";
         }
         else if (password.length()<= 10 && password.length()>3){
-            return "Twoje haslo ma 10 znaków lub mniej.";
+            return "Your password has 10 characters or less.";
         }
 
         else {
@@ -109,7 +109,7 @@ public class Messages {
 
     public String isLong (String password) {
         if (password.length() > 10 ){
-            return "Twoje hasło ma więcej niż 10 znaków!";
+            return "Your password has more than 10 characters!";
         }
         else {
             return null;
@@ -118,10 +118,10 @@ public class Messages {
 
     public String isUser (String password, String user) {
         if (password.toLowerCase().equals(user.toLowerCase())){
-            return "Hasło identyczne jak nazwa użytkownika!";
+            return "Your password is the same as your user name!";
         }
         else if (password.toLowerCase().contains(user.toLowerCase())){
-            return "Hasło zawiera w sobie nazwę użytkownika!";
+            return "Your password includes the user name!";
         }
         else {
             return null;
@@ -133,13 +133,13 @@ public class Messages {
         String result = email.split("@")[0];
 
         if (password.toLowerCase().equals(email.toLowerCase())){
-            return "Hasło jest takie same jak adres e-mail!";
+            return "Your password is your e-mail address!";
         }
         else if (password.toLowerCase().contains(email.toLowerCase())){
-            return "Hasło zawiera w sobie adres e-mail!";
+            return "Your password includes your e-mail address!";
         }
         else if (password.toLowerCase().contains(result)) {
-            return "Hasło zawiera w sobie fragment adresu e-mail!";
+            return "Your password includes a part of your e-mail address!";
         }
         else {
             return null;
@@ -149,7 +149,7 @@ public class Messages {
     public String containsDupa (String password) {
         String dupa = "dupa";
         if (password.toLowerCase().contains(dupa)) {
-            return "Hasło zawiera słowo DUPA!";
+            return "Your password includes the word DUPA!";
         }
         return  null;
     }
@@ -160,7 +160,7 @@ public class Messages {
         Matcher m = p.matcher(password);
         boolean b = m.find();
         if (b) {
-            return "Hasło zawiera znaki specjalne.";}
+            return "Your password includes special characters.";}
         return null;
     }
 
@@ -168,7 +168,7 @@ public class Messages {
         boolean hasUppercase = !password.equals(password.toLowerCase());
         boolean hasLowercase = !password.equals(password.toUpperCase());
         if (hasLowercase == true && hasUppercase ==true) {
-            return "Hasło zawiera zarówno małe, jak i wielkie litery.";
+            return "Your password includes upper and lower case.";
         }
         return null;
     }
@@ -179,7 +179,7 @@ public class Messages {
         Matcher m = p.matcher(password);
         boolean b = m.find();
         if (b) {
-            return "Hasło zawiera cyfry.";}
+            return "Your password includes numbers.";}
         return null;
     }
     public String containsProfanity (String password) {
@@ -192,7 +192,7 @@ public class Messages {
 
         if (vulg== true) {
 
-            return "Twoje hasło zawiera wulgaryzmy!";
+            return "Your password includes profanities in Polish!";
         }
 
         return null;
@@ -207,7 +207,7 @@ public class Messages {
 
         if (vulg== true) {
 
-            return "Twoje hasło znajduje się na liście 25 najpopularniejszych haseł w 2017 roku!";
+            return "Your password is on the list of the most popular passwords of 2017!";
         }
 
         return null;
@@ -225,11 +225,11 @@ public class Messages {
 
         if (word == true && wordIs == false) {
 
-            return "Twoje hasło zawiera instniejące słowo w języku angielskim";
+            return "Your password includes an existing word in English.";
         }
 
         else if (wordIs== true) {
-            return "Twoje hasło jest istniejącym słowem w języku angielskim!";
+            return "Your password is an existing word in English!";
         }
 
         return null;
@@ -249,7 +249,7 @@ public class Messages {
         boolean hasLowercase = !password.equals(password.toUpperCase());
 
         if (hasLowercase == false || hasUppercase ==false){
-            return "Hasło powinno zawierać małe i wielkie litery!";
+            return "Your password should include upper and lower case!";
         }
         return null;
     }
@@ -261,7 +261,7 @@ public class Messages {
         boolean b = m.find();
         if (b) {
             return null;}
-        return "Hasło nie zawiera cyfr";
+        return "Your password doesn't contain any numbers";
     }
 
     public String containsRepeatedChars (String password) {
@@ -269,7 +269,7 @@ public class Messages {
         Matcher m = p.matcher(password);
         boolean b = m.find();
         if (b) {
-            return "Hasło zawiera ciąg 3 lub więcej identycznych znaków!";}
+            return "Your password includes a row or 3 or more repeated characters.";}
         return null;
 
     }

@@ -15,12 +15,12 @@
 <body>
 
     <h1 class="center">Security Check</h1>
-    <p class="center">On this website you can check the security of your passwords</p>
+    <p class="center">On this website you can check the security of your passwords.</p>
 
     <p><a href="/reg" class="button">Try!</a></p>
 
     <div class="footer">
-        <p>Final Project for Java Developer Web course. Coders Lab 2018</p>
+        <p>Final Project for Java Developer Web course. Coders Lab 2018.</p>
         <p>by Piotr Dawidziuk <a href="https://github.com/PiotrDawidziuk">Github</a></p>
     </div>
 
