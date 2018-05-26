@@ -20,7 +20,7 @@
     <p><a href="/reg" class="button">Try!</a></p>
 
     <div class="footer">
-        <p>Final Project for Java Developer Web course. Coders Lab 2018.</p>
+        <p>Final Project for Java Developer Web course in Coders Lab 2018.</p>
         <p>by Piotr Dawidziuk <a href="https://github.com/PiotrDawidziuk">Github</a></p>
     </div>
 
