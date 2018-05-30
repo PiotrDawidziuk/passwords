@@ -18,14 +18,14 @@ public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     long id;
-    @NotBlank (message = "Nazwa użytkownika nie może być pusta!")
+    @NotBlank (message = "User name cannot be empty!")
     String username;
 
     @OneToMany(mappedBy = "user", cascade = CascadeType.ALL)
     List<Password> passwords;
 
-    @NotBlank (message = "E-mail nie może być pusty!")
-    @Email (message = "Podaj poprawny adres e-mail!")
+    @NotBlank (message = "E-mail cannot be empty!")
+    @Email (message = "Please use a valid e-mail adress.")
     String email;
 
     public User() {
